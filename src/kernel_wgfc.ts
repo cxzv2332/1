@@ -1,0 +1,1 @@
+const service_wgfc = <T>(args: T): T => { return args; };
